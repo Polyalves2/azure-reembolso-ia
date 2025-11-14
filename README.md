@@ -12,7 +12,7 @@ Este projeto implementa um assistente virtual capaz de:
 
 📋 Aplicar políticas empresariais por categoria
 
-🤖 Conversar naturalmente com usuários
+🤖👤 Conversar naturalmente com usuários
 
 📧 Automatizar aprovações via Power Automate
 
