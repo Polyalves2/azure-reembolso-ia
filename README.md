@@ -4,7 +4,7 @@
 
 Criado um agente de IA inteligente que automatiza o processo de solicitação e cálculo de reembolsos utilizando Azure.
 
-## Visão Geral
+## Visão Geral 🎯
 
 Este projeto implementa um assistente virtual capaz de:
 
