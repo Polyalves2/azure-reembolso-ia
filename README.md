@@ -24,8 +24,11 @@ Este projeto implementa um assistente virtual capaz de:
 
 ⚡ Processar em tempo real com Azure
 
-🏗️ Arquitetura do Sistema
-text
+
+
+🏗️ **Arquitetura do Sistema**
+
+
 ┌─────────────────┐    ┌──────────────────┐    ┌──────────────────┐
 │   Azure Bot     │───▶ │  Azure   ───▶  │    │ Power Automate   │
 │   Service       │    │   (Cálculos)     │    │   (Aprovações)   │
