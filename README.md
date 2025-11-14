@@ -42,7 +42,9 @@ Este projeto implementa um assistente virtual capaz de:
          └──────────────────┘
          
 🚀 **Funcionalidades**
+
 🤖 Agente Conversacional
+
 Interface natural em português
 
 Reconhecimento de intenções
