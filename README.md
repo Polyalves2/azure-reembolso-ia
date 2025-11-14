@@ -41,7 +41,7 @@ Este projeto implementa um assistente virtual capaz de:
          │   (Language)     │
          └──────────────────┘
          
-🚀 Funcionalidades
+🚀 **Funcionalidades**
 🤖 Agente Conversacional
 Interface natural em português
 
@@ -73,7 +73,7 @@ Aprovação instantânea (valores baixos)
 Encaminhamento para gestor (valores altos)
 
 
-💻 Tecnologias Utilizadas
+💻 **Tecnologias Utilizadas**
 Microsoft Azure
 Azure Bot Service - Agente conversacional
 
@@ -96,7 +96,7 @@ C# - Lógica de negócio
 JSON - API comunicação
 
 
-🛠️ Configuração e Instalação
+🛠️ **Configuração e Instalação**
 Pré-requisitos
 bash
 # .NET 6.0 SDK
@@ -128,16 +128,16 @@ bash
 # Login Azure
 az login
 
-🎮 Como Usar
+🎮 **Como Usar**
 Exemplo de Conversação
-text
+
 👤 Usuário: "Preciso solicitar reembolso do almoço e uber"
 🤖 Bot: "Posso ajudar! Quais foram os valores?"
 👤 Usuário: "Almoço R$ 85,00 e Uber R$ 25,50"
 🤖 Bot: "✅ Calculado! Total: R$ 110,50 | Aprovado: R$ 110,50"
 🤖 Bot: "📧 Solicitação enviada para aprovação automática!"
 
-📊 Resultados e Métricas
+📊 **Resultados e Métricas**
 Eficiência Comprovada
 
 ⏱️ 70% mais rápido que processo manual
@@ -162,7 +162,7 @@ Testes do Bot
 bash
 # No Azure Portal → Bot Service → Test in Web Chat
 
-📈 Monitoramento
+📈 **Monitoramento**
 Application Insights
 
 📊 Métricas de performance
@@ -183,7 +183,7 @@ Tempo de processamento
 Taxa de aprovação
 
 
-🏆 Reconhecimentos
+🏆 **Reconhecimentos**
 Microsoft Azure - Infraestrutura em nuvem
 
 Azure AI Services - Processamento de linguagem natural
@@ -193,7 +193,7 @@ Power Platform - Automação de fluxos
 .NET Team - Framework de desenvolvimento
 
 
-📚 Documentação de Referência
+📚 **Documentação de Referência**
 Links:
 📖 Foundry Documentation
 https://learn.microsoft.com/en-us/azure/ai-foundry/
@@ -202,11 +202,11 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/
 https://docs.microsoft.com/en-us/bot-framework/dotnet/
 
 
-🎥 Video Tutorial
+🎥 **Video Tutorial**
 
 
 
-Desenvolvido com ❤️ usando Azure 
+**Desenvolvido com ❤️ usando Azure** 
 
 
 
