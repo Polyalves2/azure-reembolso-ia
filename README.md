@@ -1,6 +1,6 @@
 # azure-reembolso-ia
 
-🤖 ****Agente de Reembolso Inteligente - IA****
+🤖 # Agente de Reembolso Inteligente - IA
 
 https://img.shields.io/badge/Azure-Foundry-0078D4
 
