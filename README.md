@@ -10,7 +10,7 @@ https://img.shields.io/badge/.NET-6.0-purple
 Um agente de IA inteligente que automatiza o processo de solicitação e cálculo de reembolsos utilizando Azure.
 
 
-🎯 #Visão Geral#
+🎯 ****Visão Geral****
 
 Este projeto implementa um assistente virtual capaz de:
 
@@ -25,7 +25,7 @@ Este projeto implementa um assistente virtual capaz de:
 ⚡ Processar em tempo real com Azure
 
 
-🚀 #Funcionalidades
+🚀 ****Funcionalidades****
 
 🤖 Agente Conversacional
 
@@ -70,7 +70,7 @@ Aprovação instantânea (valores baixos)
 Encaminhamento para gestor (valores altos)
 
 
-💻 #Tecnologias Utilizadas
+💻 ****Tecnologias Utilizadas****
 
 Microsoft Azure
 
@@ -97,7 +97,7 @@ C# - Lógica de negócio
 JSON - API comunicação
 
 
-🛠️ #Configuração e Instalação
+🛠️ ****Configuração e Instalação****
 
 Pré-requisitos
 
