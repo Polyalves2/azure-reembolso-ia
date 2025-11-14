@@ -2,6 +2,8 @@
 
 # Agente de Reembolso Inteligente - IA 🤖 
 
+Um agente de IA inteligente que automatiza o processo de solicitação e cálculo de reembolsos utilizando Azure.
+
 https://img.shields.io/badge/Azure-Foundry-0078D4
 
 https://img.shields.io/badge/AI-BotService-green
