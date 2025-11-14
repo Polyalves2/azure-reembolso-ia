@@ -1,4 +1,5 @@
 # azure-reembolso-ia
+
 🤖 ****Agente de Reembolso Inteligente - IA****
 
 https://img.shields.io/badge/Azure-Foundry-0078D4
@@ -8,6 +9,7 @@ https://img.shields.io/badge/AI-BotService-green
 https://img.shields.io/badge/.NET-6.0-purple
 
 Um agente de IA inteligente que automatiza o processo de solicitação e cálculo de reembolsos utilizando Azure.
+
 
 
 🎯 ****Visão Geral****
@@ -25,6 +27,7 @@ Este projeto implementa um assistente virtual capaz de:
 ⚡ Processar em tempo real com Azure
 
 
+
 🚀 ****Funcionalidades****
 
 🤖 Agente Conversacional
@@ -35,7 +38,8 @@ Reconhecimento de intenções
 
 Processamento de linguagem natural
 
-🧮 Cálculo Inteligente
+
+🧮 ****Cálculo Inteligente****
 
 csharp
 
@@ -46,6 +50,7 @@ csharp
 ✅ Transporte: R$ 25,50 (Limite: R$ 50,00) 
 
 ✅ Total Aprovado: R$ 110,50
+
 
 📊 Políticas Empresariais
 
@@ -58,6 +63,7 @@ Transporte	R$ 50,00	Acima de R$ 500,00
 Hospedagem	R$ 300,00	Sempre
 
 Material	R$ 200,00	Acima de R$ 500,00
+
 
 📨 Fluxo de Aprovação
 
@@ -133,6 +139,7 @@ dotnet build
 
 az login
 
+
 🎮 **Como Usar**
 
 Exemplo de Conversação
@@ -146,6 +153,7 @@ Exemplo de Conversação
 🤖 Bot: "✅ Calculado! Total: R$ 110,50 | Aprovado: R$ 110,50"
 
 🤖 Bot: "📧 Solicitação enviada para aprovação automática!"
+
 
 📊 **Resultados e Métricas**
 
@@ -203,6 +211,7 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/
 
 🔗 Bot Framework SDK for .NET
 https://docs.microsoft.com/en-us/bot-framework/dotnet/
+
 
 
 🎥 **Video Tutorial**
