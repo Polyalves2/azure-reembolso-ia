@@ -1,5 +1,5 @@
 # azure-reembolso-ia
-🤖 **Agente de Reembolso Inteligente - IA**
+🤖 # Agente de Reembolso Inteligente - IA
 
 https://img.shields.io/badge/Azure-Foundry-0078D4
 
@@ -10,7 +10,7 @@ https://img.shields.io/badge/.NET-6.0-purple
 Um agente de IA inteligente que automatiza o processo de solicitação e cálculo de reembolsos utilizando Azure.
 
 
-🎯 **Visão Geral**
+🎯 # Visão Geral
 
 Este projeto implementa um assistente virtual capaz de:
 
@@ -25,7 +25,7 @@ Este projeto implementa um assistente virtual capaz de:
 ⚡ Processar em tempo real com Azure
 
 
-🚀 **Funcionalidades**
+🚀 # Funcionalidades
 
 🤖 Agente Conversacional
 
@@ -70,7 +70,7 @@ Aprovação instantânea (valores baixos)
 Encaminhamento para gestor (valores altos)
 
 
-💻 **Tecnologias Utilizadas**
+💻 # Tecnologias Utilizadas
 
 Microsoft Azure
 
@@ -97,7 +97,7 @@ C# - Lógica de negócio
 JSON - API comunicação
 
 
-🛠️ **Configuração e Instalação**
+🛠️ # Configuração e Instalação
 
 Pré-requisitos
 
@@ -108,7 +108,7 @@ dotnet --version
 
 → 6.0.426
 
-# Azure CLI
+**Azure CLI**
 
 az --version
 
@@ -120,27 +120,16 @@ git clone https://github.com/seu-usuario/azure-reembolso-ia.git
 
 cd azure-reembolso-ia
 
-3. Configuração do Ambiente
-   
-bash
-
-# Restaurar pacotes
+**Restaurar pacotes**
 
 dotnet restore
 
-# Compilar projeto
+**Compilar projeto**
 
 dotnet build
 
-# Executar localmente
 
-func start
-
-3. Configuração Azure
-
-bash
-
-# Login Azure
+**Login Azure**
 
 az login
 
