@@ -102,17 +102,11 @@ JSON - API comunicação
 Pré-requisitos
 
 bash
-# .NET 6.0 SDK
+.NET 6.0 SDK
 
 dotnet --version
 
-# → 6.0.426
-
-# Azure Functions Core Tools
-
-func --version
-
-# → 4.x
+→ 6.0.426
 
 # Azure CLI
 
