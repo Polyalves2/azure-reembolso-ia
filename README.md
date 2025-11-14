@@ -25,7 +25,7 @@ Este projeto implementa um assistente virtual capaz de:
 ⚡ Processar em tempo real com Azure
 
 
-🚀 # Funcionalidades
+🚀 #Funcionalidades
 
 🤖 Agente Conversacional
 
@@ -70,7 +70,7 @@ Aprovação instantânea (valores baixos)
 Encaminhamento para gestor (valores altos)
 
 
-💻 # Tecnologias Utilizadas
+💻 #Tecnologias Utilizadas
 
 Microsoft Azure
 
@@ -97,7 +97,7 @@ C# - Lógica de negócio
 JSON - API comunicação
 
 
-🛠️ # Configuração e Instalação
+🛠️ #Configuração e Instalação
 
 Pré-requisitos
 
