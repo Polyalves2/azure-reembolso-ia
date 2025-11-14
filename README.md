@@ -20,7 +20,7 @@ Este projeto implementa um assistente virtual capaz de:
 
 
 
-### Funcionalidades 🚀
+## Funcionalidades 🚀
 
 🤖 Agente Conversacional
 
