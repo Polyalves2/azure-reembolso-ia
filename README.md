@@ -208,7 +208,7 @@ https://docs.microsoft.com/en-us/bot-framework/dotnet/
 
 
 
-## Desenvolvido com ❤️ usando Azure, para Azure Frontier Girls.
+## Desenvolvido com ❤️ para Azure Frontier Girls.
 
 
 
