@@ -22,7 +22,7 @@ Este projeto implementa um assistente virtual capaz de:
 
 ## Funcionalidades 🚀
 
-🤖 Agente Conversacional
+🤖 **Agente Conversacional**
 
 Interface natural em português
 
@@ -31,11 +31,11 @@ Reconhecimento de intenções
 Processamento de linguagem natural
 
 
-🧮 ****Cálculo Inteligente****
+## Cálculo Inteligente 🧮
 
-csharp
+**csharp**
 
-// Exemplo de cálculo automático
+Exemplo de cálculo automático
 
 ✅ Almoço: R$ 85,00 (Limite: R$ 100,00)
 
@@ -44,7 +44,7 @@ csharp
 ✅ Total Aprovado: R$ 110,50
 
 
-📊 Políticas Empresariais
+📊 **Políticas Empresariais**
 
 Categoria	Limite Diário	Requer Aprovação
 
@@ -57,7 +57,7 @@ Hospedagem	R$ 300,00	Sempre
 Material	R$ 200,00	Acima de R$ 500,00
 
 
-📨 Fluxo de Aprovação
+📨 **Fluxo de Aprovação**
 
 Solicitação via bot
 
@@ -68,7 +68,7 @@ Aprovação instantânea (valores baixos)
 Encaminhamento para gestor (valores altos)
 
 
-💻 ****Tecnologias Utilizadas****
+## Tecnologias Utilizadas 💻 
 
 Microsoft Azure
 
@@ -86,7 +86,7 @@ Power Automate - Fluxos de trabalho
 
 SharePoint - Armazenamento de dados
 
-Desenvolvimento
+**Desenvolvimento**
 
 .NET 6.0 - Backend
 
@@ -95,9 +95,9 @@ C# - Lógica de negócio
 JSON - API comunicação
 
 
-🛠️ ****Configuração e Instalação****
+## Configuração e Instalação 🛠️ 
 
-Pré-requisitos
+**Pré-requisitos**
 
 bash
 .NET 6.0 SDK
@@ -110,7 +110,7 @@ dotnet --version
 
 az --version
 
-1. Clone o Repositório
+**Clone o Repositório**
    
 bash
 
@@ -126,13 +126,11 @@ dotnet restore
 
 dotnet build
 
-
 **Login Azure**
 
 az login
 
-
-🎮 **Como Usar**
+## Como Usar 🎮
 
 Exemplo de Conversação
 
@@ -147,7 +145,7 @@ Exemplo de Conversação
 🤖 Bot: "📧 Solicitação enviada para aprovação automática!"
 
 
-📊 **Resultados e Métricas**
+## Resultados e Métricas 📊
 
 Eficiência Comprovada
 
@@ -160,7 +158,7 @@ Eficiência Comprovada
 📈 100% disponibilidade com Azure 
 
 
-📈 **Monitoramento**
+## Monitoramento 📈
 
 Application Insights
 
@@ -183,7 +181,7 @@ Tempo de processamento
 Taxa de aprovação
 
 
-🏆 **Reconhecimentos**
+## Reconhecimentos
 
 Microsoft Azure - Infraestrutura em nuvem
 
@@ -194,7 +192,7 @@ Power Platform - Automação de fluxos
 .NET Team - Framework de desenvolvimento
 
 
-📚 **Documentação de Referência**
+## Documentação de Referência 📚
 
 Links:
 
@@ -206,11 +204,11 @@ https://docs.microsoft.com/en-us/bot-framework/dotnet/
 
 
 
-🎥 **Video Tutorial**
+## Video Tutorial 🎥
 
 
 
-**Desenvolvido com ❤️ usando Azure** 
+## Desenvolvido com ❤️ usando Azure, para Azure Frontier Girls.
 
 
 
