@@ -72,7 +72,7 @@ Encaminhamento para gestor (valores altos)
 
 Microsoft Azure
 
-Azure Bot Service - Agente conversacional
+Azure foundry- Agente conversacional
 
 Azure  - Cálculos em tempo real
 
@@ -85,6 +85,8 @@ Microsoft 365
 Power Automate - Fluxos de trabalho
 
 SharePoint - Armazenamento de dados
+
+Deepseek
 
 **Desenvolvimento**
 
