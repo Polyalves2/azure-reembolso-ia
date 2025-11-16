@@ -33,7 +33,7 @@ Processamento de linguagem natural
 
 ## Cálculo Inteligente 🧮
 
-**csharp**
+**python**
 
 Exemplo de cálculo automático
 
