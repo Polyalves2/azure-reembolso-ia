@@ -37,9 +37,9 @@ Processamento de linguagem natural
 
 Exemplo de cálculo automático
 
-✅ Almoço: R$ 85,00 (Limite: R$ 100,00)
+✅ Almoço: R$ 85,00 
 
-✅ Transporte: R$ 25,50 (Limite: R$ 50,00) 
+✅ Transporte: R$ 25,50
 
 ✅ Total Aprovado: R$ 110,50
 
@@ -88,13 +88,16 @@ SharePoint - Armazenamento de dados
 
 Deepseek
 
+Chat 4 mini
+
+
 **Desenvolvimento**
 
-.NET 6.0 - Backend
-
-C# - Lógica de negócio
+Python - Backend
 
 JSON - API comunicação
+
+Banco de dados 
 
 
 ## Configuração e Instalação 🛠️ 
@@ -102,11 +105,8 @@ JSON - API comunicação
 **Pré-requisitos**
 
 bash
-.NET 6.0 SDK
 
-dotnet --version
-
-→ 6.0.426
+python
 
 **Azure CLI**
 
@@ -120,13 +120,10 @@ git clone https://github.com/seu-usuario/azure-reembolso-ia.git
 
 cd azure-reembolso-ia
 
-**Restaurar pacotes**
-
-dotnet restore
 
 **Compilar projeto**
 
-dotnet build
+
 
 **Login Azure**
 
@@ -191,7 +188,7 @@ Azure AI Services - Processamento de linguagem natural
 
 Power Platform - Automação de fluxos
 
-.NET Team - Framework de desenvolvimento
+Sharepoint - Microsoft 365
 
 
 ## Documentação de Referência 📚
@@ -201,12 +198,16 @@ Links:
 📖 Foundry Documentation
 https://learn.microsoft.com/en-us/azure/ai-foundry/
 
-🔗 Bot Framework SDK for .NET
-https://docs.microsoft.com/en-us/bot-framework/dotnet/
+🔗 API REST do OpenAI do Azure em Modelos da Fábrica de IA do Azure
+https://learn.microsoft.com/pt-br/azure/ai-foundry/openai/reference?utm_source=chatgpt.com
 
+🔗 Compreender a integração de formulários do SharePoint
+https://learn.microsoft.com/pt-br/power-apps/maker/canvas-apps/sharepoint-form-integration
 
 
 ## Video Tutorial 🎥
+
+Link:
 
 
 
